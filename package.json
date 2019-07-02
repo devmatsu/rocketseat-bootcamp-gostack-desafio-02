@@ -1,0 +1,16 @@
+{
+  "name": "rocketseat-bootcamp-gostack-desafio-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devmatsu/rocketseat-bootcamp-gostack-desafio-02.git",
+  "author": "devmatsu <devmatsu@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
+  }
+}
