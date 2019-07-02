@@ -5,9 +5,12 @@
   "repository": "https://github.com/devmatsu/rocketseat-bootcamp-gostack-desafio-02.git",
   "author": "devmatsu <devmatsu@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
-    "sequelize": "^5.9.0"
+    "sequelize": "^5.9.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
