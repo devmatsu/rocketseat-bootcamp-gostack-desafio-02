@@ -5,7 +5,8 @@ O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp
 
 Segundo desafio do curso GoStack referente ao segundo módulo.
 
-# Desafio 02. Iniciando aplicação
+# Desafio:
+## Desafio 02. Iniciando aplicação
 
 Crie uma aplicação do zero utilizando Express.
 
